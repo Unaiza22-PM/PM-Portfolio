@@ -6,6 +6,7 @@
 **Supervisor:** Miss Rimsha Javed  
 **Institution:** Mohammad Ali Jinnah University
 
+---
 
 ## Project Summary
 HireHive is a recruitment platform integrating traditional hiring tools with unique investor and entrepreneur portals.  
@@ -15,6 +16,7 @@ It enables:
 - Entrepreneurs to pitch business ideas to potential investors.
 - Investors to review proposals and connect with entrepreneurs.
 
+---
 
 ## My Contributions
 - **Led a 3-member team** through all project phases.
@@ -24,6 +26,7 @@ It enables:
 - **Managed weekly team meetings** and progress tracking.
 - **Coordinated the testing phase** for functional and usability checks.
 
+---
 
 ## Tools & Technologies
 - **Frontend:** HTML5, CSS3, Bootstrap5, Angular
@@ -32,6 +35,15 @@ It enables:
 - **Security:** HTTPS, JWT Authentication
 - **Other:** NLP integration for enhanced usability
 
+---
+
+## Related Files
+- [HireHive Requirements](requirements.md)  
+- [HireHive Test Plan](test_plan.md)
+- [HireHive Future Scope](future_scope.md)
+- [HireHive Timeline](timeline.md)  
+
+---
 
 ## Project Outcomes
 - Delivered on schedule according to the defined scope.
