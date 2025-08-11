@@ -2,7 +2,7 @@
 ---
 
 ## 1. Analysis Model  
-![Analysis Model](Analysis_model.svg)
+![Analysis Model](Analysis_model.drawio.svg)
 
 ## 2. HireHive Architecture  
 ![Architecture Diagram](HireHive_Architecture.png)
