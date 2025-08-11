@@ -2,10 +2,14 @@
 ---
 
 ## 1. Analysis Model  
-![Analysis Model](Analysis_model.drawio.svg)
+![Analysis Model](Analysis_Model.drawio.svg)
+
+---
 
 ## 2. HireHive Architecture  
 ![Architecture Diagram](HireHive_Architecture.png)
+
+---
 
 ## 3. Gantt Chart  
 ![Gantt Chart](Gantt_Chart.png)
