@@ -31,7 +31,7 @@ It enables:
 ## Tools & Technologies
 - **Frontend:** HTML5, CSS3, Bootstrap5, Angular
 - **Database:** MySQL
-- **Project Management:** Gantt Chart Scheduling
+- **Project Management:** Gantt Chart Scheduling, Jira
 - **Security:** HTTPS, JWT Authentication
 - **Other:** NLP integration for enhanced usability
 
